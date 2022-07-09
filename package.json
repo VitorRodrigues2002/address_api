@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "adm-zip": "^0.5.9",
+    "configparser": "^0.3.9",
+    "decompress": "^4.2.1",
+    "dotenv": "^16.0.0",
+    "extract-zip": "^2.0.1",
+    "faker": "^6.6.6",
+    "jsdom": "^19.0.0",
+    "puppeteer": "^13.5.2",
+    "puppeteer-core": "^13.5.2"
+  }
+}
